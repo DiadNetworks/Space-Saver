@@ -7,7 +7,7 @@ The purpose for most of these is to have in a server/network environment and eit
 
 ## Categories
 
-There are two categories, these are contained in the folders `Network` and `Local`.  
+There are two categories, these are contained in the folders [Network](https://github.com/DiadNetworks/Space-Saver/tree/main/Network) and [Local](https://github.com/DiadNetworks/Space-Saver/tree/main/Local).  
 
 The `Network` category is for scripts intended to be run in a network environment and they can complete tasks on multiple computers at once.  
 
