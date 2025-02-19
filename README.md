@@ -14,3 +14,7 @@ These will let you specifiy which computers to run the task on.
 
 The `Local` category is for scripts intended to be run on a single computer when needed to free space.  
 These will run the task on the current computer.
+
+## How to use the scripts
+
+The scripts each have a short description of the task they perform and then a section of variables to edit. You need only edit the variables to fit your environment.
